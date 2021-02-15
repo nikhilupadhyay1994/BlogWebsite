@@ -1,0 +1,26 @@
+#icon{
+    font-family: 'Montez',cursive;
+    color: blue;
+    font-size: x-large;
+    margin: 0%;
+}
+
+span{
+    font-family: 'Ubunto Mono';
+    font-size: small;
+}
+
+.btn-primary{
+    background-color: blue;
+    color: white;
+    float: right;
+    margin: 2px;
+    text-align: center;
+}
+
+#head{
+    height: 15%;
+    margin: 0%;
+}
+
+
